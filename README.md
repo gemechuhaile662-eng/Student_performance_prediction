@@ -43,7 +43,7 @@ Python 3.x
 Installation
 bash
 # Clone the repository
-git clone https://github.com/yourusername/student-performance-prediction.git
+git clone https://github.com/gemechuhaile662@-eng/student-performance-prediction.git
 cd student-performance-prediction
 
 # Install required packages
